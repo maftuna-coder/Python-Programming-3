@@ -1,0 +1,1 @@
+Using the logic function of question two, i created an XOR function with two input parameter.
